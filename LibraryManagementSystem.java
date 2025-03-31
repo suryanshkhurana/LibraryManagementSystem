@@ -141,6 +141,9 @@ public class LibraryManagementSystem {
         library.addBook(new Book("Moby Dick", "Herman Melville"));
         library.addBook(new Book("Pride and Prejudice", "Jane Austen"));
         library.addBook(new Book("The Catcher in the Rye", "J.D. Salinger"));
+        library.addBook(new Book("Origin", "Dan Brown"));
+        library.addBook(new Book("Srimad Bhagavad Gita", "Srila Prabupada"));
+
         
         while (true) {
             System.out.println("\nLibrary Management System");
